@@ -1,0 +1,4 @@
+project=whynotdsp
+architecture=container
+test=minitest
+template=erb
