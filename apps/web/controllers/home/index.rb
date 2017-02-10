@@ -20,7 +20,9 @@ module Web::Controllers::Home
         'Nic mi nie wychodzi i nie będę o tym pisał!',
         'Nie chcę mi się',
         'Mam małe dziecko',
-        'Będą się ze mnie śmiali'
+        'Będą się ze mnie śmiali',
+        'Nie umiem w bloga',
+        'Blogi takie trudne'
       ]
     end
   end
