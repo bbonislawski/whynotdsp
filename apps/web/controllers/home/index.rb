@@ -18,7 +18,9 @@ module Web::Controllers::Home
         'Nie potrafię',
         'Wstydzę się',
         'Nic mi nie wychodzi i nie będę o tym pisał!',
-        'Nie chcę mi się'
+        'Nie chcę mi się',
+        'Mam małe dziecko',
+        'Będą się ze mnie śmiali'
       ]
     end
   end
