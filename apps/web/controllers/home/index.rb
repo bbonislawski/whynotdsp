@@ -17,7 +17,8 @@ module Web::Controllers::Home
         'Nie mam pomysłu na apkę',
         'Nie potrafię',
         'Wstydzę się',
-        'Nic mi nie wychodzi i nie będę o tym pisał!'
+        'Nic mi nie wychodzi i nie będę o tym pisał!',
+        'Nie chcę mi się'
       ]
     end
   end
