@@ -11,7 +11,7 @@ module Web::Controllers::Home
         'Nie umiem pisać',
         'Nie nadaję się do tego',
         'To nie dla mnie',
-        'Nie umiem poprawnie sklecić zdanie',
+        'Nie umiem poprawnie sklecić zdania',
         'Zarobiony jestem',
         'Bo nie!',
         'Nie mam pomysłu na apkę',
