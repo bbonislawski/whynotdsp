@@ -22,7 +22,8 @@ module Web::Controllers::Home
         'Mam małe dziecko',
         'Będą się ze mnie śmiali',
         'Nie umiem w bloga',
-        'Blogi takie trudne'
+        'Blogi takie trudne',
+        'Nie chcę dać się poznać, bo dbam o swoją prywatność'
       ]
     end
   end
