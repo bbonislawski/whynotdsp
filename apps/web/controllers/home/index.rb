@@ -22,9 +22,11 @@ module Web::Controllers::Home
         'Mam małe dziecko',
         'Będą się ze mnie śmiali',
         'Nie umiem w bloga',
-        'Blogi takie trudne'
-		'Kto będzie czytał moje wypociny'
-		'Nie wiem, nie znam się, nie orientuję się, zarobiony jestem!'
+        'Blogi takie trudne',
+		    'Kto będzie czytał moje wypociny',
+		    'Nie wiem, nie znam się, nie orientuję się, zarobiony jestem!',
+        'Blogi takie trudne',
+        'Nie chcę dać się poznać, bo dbam o swoją prywatność'
       ]
     end
   end
